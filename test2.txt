@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA55-AEBF
+
+ Directory of C:\Users\user\Desktop\myproject
+
+30-Jun-20  04:31 PM    <DIR>          .
+30-Jun-20  04:31 PM    <DIR>          ..
+28-Jun-20  03:29 PM                20 idex.html
+30-Jun-20  04:31 PM                 0 test2.txt
+28-Jun-20  03:07 PM               351 text.txt
+               3 File(s)            371 bytes
+               2 Dir(s)  68,759,932,928 bytes free
